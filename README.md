@@ -26,7 +26,7 @@ This will launch a comfortable development environment for implementing a templa
 Check out [Yarn Usage](https://yarnpkg.com/en/docs/usage) and [Yarn Documentation](https://yarnpkg.com/en/docs/cli).
 
 
-## Use Yarn or Node Packaga Manager
+### Use Yarn or Node Packaga Manager
 
 - `yarn add [package] --dev` or `npm install [package] --save`
 
@@ -39,7 +39,7 @@ When you are done implementing the template you can build a Lndr compatible vers
 $ yarn build
 ```
 
-## Using Boilerplate
+### Using Boilerplate
 
 - Use `styles.scss` to import all style files.
 - Use `assets/sass` directory for your own templates sass code
