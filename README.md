@@ -1,17 +1,43 @@
-# Frontend Starter
-A simple starter template for easy frontend design and development
+# Template Starter
 
-## How to start
-- `yarn install` or `npm install`
-- `yarn dev` or `gulp`
-- `yarn build` or `npm build` to build or ready for demo
-- Check [Yarn Usage](https://yarnpkg.com/en/docs/usage)
-- Check [Yarn Documentation](https://yarnpkg.com/en/docs/cli/)
+To hit the ground running feel free to use our simple template starter. You can clone in from GitHub and get started in a few easy steps:
+
+Clone the repository:
+
+```bash
+$ git clone git@github.com:makehero/template-starter.git template_name
+```
+
+Use [yarn](https://yarnpkg.com) to install project dependencies:
+
+```bash
+$ cd template_name/
+$ yarn install
+```
+
+Start a local development server:
+
+```bash
+$ yarn dev
+```
+
+This will launch a comfortable development environment for implementing a template design. Whatever can be done with `yarn` can also be done with `npm` so use whichever feels right for you.
+
+Check out [Yarn Usage](https://yarnpkg.com/en/docs/usage) and [Yarn Documentation](https://yarnpkg.com/en/docs/cli).
+
 
 ## Use Yarn or Node Packaga Manager
 
 - `yarn add [package] --dev` or `npm install [package] --save`
 
+
+## Build
+
+When you are done implementing the template you can build a Lndr compatible version by running the build command.
+
+```bash
+$ yarn build
+```
 
 ## Using Boilerplate
 
