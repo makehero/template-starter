@@ -31,13 +31,13 @@ Check out [Yarn Usage](https://yarnpkg.com/en/docs/usage) and [Yarn Documentatio
 - `yarn add [package] --dev` or `npm install [package] --save`
 
 
-## Neat Bourbon & Bitters
+### Neat Bourbon & Bitters
 
 This project comes with a few SASS libraries:
 
-- [*Bourbon*](http://bourbon.io/) - A lightweight mixin library for SASS
-- [*Neat*](http://neat.bourbon.io/) - A flexible SASS responsive grid
-- [*Bitters*](http://bitters.bourbon.io/) - A basic structure for your SASS files
+- [Bourbon](http://bourbon.io/) - A lightweight mixin library for SASS
+- [Neat](http://neat.bourbon.io/) - A flexible SASS responsive grid
+- [Bitters](http://bitters.bourbon.io/) - A basic structure for your SASS files
 
 All of these can be found inside your `assets/sass` directory. You can safely delete everything and start from scratch.
 
